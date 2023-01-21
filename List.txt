@@ -1,0 +1,5 @@
+Get the bluetooth on the pi to start sending 2's out 
+
+1. Set bluetooth to slave mode
+2. Have it autolink to phones MAC address
+3. Send the 2's
